@@ -1,4 +1,4 @@
 > Full Stack Pixabay Clone
-> By CrazyDevilJon
+> By CrazyDevilJohn
 > With Nodejs And Reactjs
 > ![Project Image](./snap.png)
